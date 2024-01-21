@@ -1,0 +1,30 @@
+{
+  "json_data":
+ [
+  {
+    "id": 1,
+    "userName": "Ozgur Kocaoglu",
+    "companyID": "002911",
+    "isTeamleader": false
+  },
+  {
+    "id": 2,
+    "userName": "Akin Sanci",
+    "companyID": "001234",
+    "isTeamleader": true
+  },
+  {
+    "id": 3,
+    "userName": "Hande Yazici",
+    "companyID": "009022",
+    "isTeamleader": false
+  }
+  ,
+  {
+    "id": 4,
+    "userName": "Mehmet Karagoz",
+    "companyID": "003445",
+    "isTeamleader": false
+  }
+ ]
+}

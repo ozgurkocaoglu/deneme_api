@@ -18,15 +18,13 @@
     "userName": "Hande Yazici",
     "companyID": "hy006000",
     "isTeamleader": false
-  }
-  ,
+  },
   {
     "id": 4,
     "userName": "Mehmet Karagoz",
     "companyID": "mk003000",
     "isTeamleader": false
-  }
-   ,
+  },
   {
     "id": 5,
     "userName": "Ezgi Tashan",
